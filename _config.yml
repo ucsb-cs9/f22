@@ -1,0 +1,124 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
+
+url: https://ucsb-cs9.github.io
+baseurl: "/f22"
+
+course: "CS 9"
+qtr: "F22"
+instructor: "Richert Wang" 
+quarter: "Fall 2022"
+piazza_url: 
+gauchospace_course_page:
+gradescope_class_url:
+
+github_url: https://github.com/ucsb-cs9/f22
+
+start_week: 0
+start_date: 2022-09-18 00:00:00.00-7:00
+num_weeks: 11
+extra_exam_week: true
+
+cal_dates: >                                                                    
+  [                                                                            
+    {"label":"F22 1st day of instruction", "date":"2022-09-22" },
+    {"label":"Academic Integrity Contract Due", "date":"2022-10-04" },
+    {"label":"Veterans' Day", "date":"2022-11-11" },
+    {"label":"Thanksgiving", "date":"2022-11-24" },
+    {"label":"Thanksgiving", "date":"2022-11-25" },
+    {"label":"F22 instruction ends", "date":"2022-12-02" },
+    {"label":"F22 CS 9 FINAL (8:00am - 10:00am)", "date":"2022-12-08" },                                                
+    {"label":"F22 qtr ends", "date":"2022-12-09" }                              
+  ]
+
+kramdown:
+   parse_block_html: true
+   default_lang: cpp
+
+exclude:
+   - vendor
+   - _hwk/keep
+   - _lab/keep
+   - _exam/keep
+   - _lectures/keep
+   - _info/keep        
+include:
+   - _pages
+   
+timezone: America/Los_Angeles
+
+collections:
+  hwk:
+    output: true
+    permalink: /hwk/:path/
+    last_before: false
+  lab:
+    output: true
+    permalink: /lab/:path/
+    last_before: false
+  labWIP:
+    output: true
+    permalink: /labWIP/:path/
+    last_before: false
+  exam:
+    output: true
+    permalink: /exam/:path/
+  info:
+    output: true
+    permalink: /info/:path/
+  lectures:
+    output: true
+    permalink: /lectures/:path/
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: default
+  - 
+    scope:
+      path: ""
+      type: lectures
+    values:
+      layout: lecture
+  - 
+    scope:
+      path: ""
+      type: hwk
+    values:
+      layout: hwk
+  - 
+    scope:
+      path: ""
+      type: lab
+    values:
+      layout: lab
+  - 
+    scope:
+      path: ""
+      type: labWIP
+    values:
+      layout: lab
+  - 
+    scope:
+      path: ""
+      type: exam
+    values:
+      layout: exam_info
+  - 
+    scope:
+      path: ""
+      type: info
+    values:
+      layout: default
+  -
+    scope:
+      path: "syllabus.md"
+      type: info
+    values:
+      layout: handout

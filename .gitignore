@@ -1,0 +1,23 @@
+
+# Standard Jekyll Stuff
+
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Also seems to occur in the wild, related to Jekyll in our setup
+
+.bundle
+vendor
+
+# Needed for emacs users
+*~
+\#*\#
+
+# For vi users
+*.swp
+
+# For MacOS
+
+.DS_Store

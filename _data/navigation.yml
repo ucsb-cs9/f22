@@ -1,0 +1,37 @@
+# the production_url is the url that the parent/child site have in common
+#  e.g. production_url: https://ucsb-cs24.github.io
+#  for main site http://ucsb-cs24.github.io
+#  and child sites
+#    https://ucsb-cs24.github.io/w18
+#    https://ucsb-cs24.github.io/f18
+#    https://ucsb-cs24.github.io/s19
+#    etc.
+
+production_url: https://ucsb-cs9.github.io
+
+# List the title and url for each item on navigation bar.
+# For items that should be relative urls, put the baseurl of the site
+# they come from, / for main site, and /f18, /s19, etc for child sites.
+
+home:
+   title: UCSB CS 9
+   url: /
+   baseurl: /
+
+offerings:
+   title: "f22"
+   url: /	
+   baseurl: /f22
+   items:
+      - title: "f22"
+        url: /
+        baseurl: /f22
+
+offering_links:
+   - title: Cal
+     url: /info/calendar/
+     description: "Assignment Calendar"
+   - title: Github
+     dropdown:
+         - title: f22
+           url: https://github.com/ucsb-cs9/f22
