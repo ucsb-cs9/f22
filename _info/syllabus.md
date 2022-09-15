@@ -54,7 +54,9 @@ We highly encourage all students to start all assignments and reading **as early
 
 Here are some general rules about Piazza, to keep it from getting cluttered, make sure you can benefit the most from having this forum, and to make it easier for us to answer your questions. Class communication will be done through this platform (reminders / announcements / etc). **Note: all lab assignments in this course must be done INDEPENDENTLY (no group work).**
 
-So, when you have a question:
+In general, Piazza is not a substitute for lab sections / office hours - the best feedback is given in lab sections / office hours.
+
+But when you have a question and would like to post it on Piazza:
 
 1. Search through existing Piazza questions to make sure your question hasn't been answered before.
 2. Use the filters (lab, lecture, logistics) to navigate between questions easily.
