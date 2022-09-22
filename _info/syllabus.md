@@ -74,7 +74,7 @@ Your course grade will be determined as follows:
 | Grade Item                        | Percentage of Final Grade |
 |-----------------------------------|---------------------------|
 | Academic Integrity Contract       |  1 %                      |
-| Quizzes                           | 35 %                      |
+| Quizzes (Fridays, Week 2,4,6,8,10)| 35 %                      |
 | Final (Thur 12/8), 8am - 10am     | 30 %                      |
 | Homeworks                         |  9 %                      |
 | Labs                              | 25 %                      |
