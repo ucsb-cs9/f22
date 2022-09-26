@@ -9,7 +9,7 @@ ready: true
 # Instructor
 Richert Wang
 
-* Tuesdays / Thursdays 9:30am - 10:30am (HFH 1151)
+* Tuesdays / Thursdays 9:30am - 10:30am (HFH 1151 [https://goo.gl/maps/2miBjdxACQPbzic76](https://goo.gl/maps/2miBjdxACQPbzic76))
 
 # TAs
 
@@ -39,7 +39,7 @@ Yanchen Lu
 
 Kha-Dinh Luong
 * Lab Section (SSMS 1301): 11am, 12pm
-* Tuesdays 12pm - 2pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+* Tuesdays 12pm - 2pm (HFH 2120A [https://goo.gl/maps/2miBjdxACQPbzic76](https://goo.gl/maps/2miBjdxACQPbzic76))
 
 Krushna Shah
 * Lab Section (SSMS 1301): 9am, 3pm
