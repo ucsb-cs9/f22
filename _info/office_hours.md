@@ -37,7 +37,7 @@ Yanchen Lu
 * Lab Section (SSMS 1301): 11am, 12pm
 * Thursdays 11am - 1pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
-Kha-Din Luong
+Kha-Dinh Luong
 * Lab Section (SSMS 1301): 11am, 12pm
 * Tuesdays 12pm - 2pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
