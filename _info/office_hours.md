@@ -57,4 +57,4 @@ Kyle Kumar
 
 Yunhao Luo
 * Lab Section (SSMS 1301): 11am
-* Thursdays 11am - 1pm, Fridays 10am - 12pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+* Thursdays 11am - 12pm, Fridays 10am - 12pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
