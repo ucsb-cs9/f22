@@ -23,7 +23,7 @@ Nawel Alioua
 
 Shanxiu He
 * Lab Section (SSMS 1301): 1pm
-* Mondays 9am - 11am, 2pm - 3pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+* Mondays 9am - 11am, 1pm - 2pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 Ajit Jadhav
 * Lab Section (SSMS 1301): 9am, 10am
@@ -34,8 +34,8 @@ Xinyu Liu
 * Thursdays 12pm - 2pm, Fridays 9am - 10am [https://goo.gl/maps/LqegEHQB9Xoq67pS7](Trailer 936 (https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 Yanchen Lu
-* Lab Section (SSMS 1301): 11am, 12pm
-* Thursdays 11am - 1pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+* Lab Section (SSMS 1301): 12pm
+* Tuesday 11am - 12pm, Thursdays 11am - 1pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 Kha-Dinh Luong
 * Lab Section (SSMS 1301): 11am, 12pm
