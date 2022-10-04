@@ -164,10 +164,10 @@ class Courses:
 
 	def printCourses(self):
 		for courseNum in self.courses:
-		print("CourseNum: ", courseNum)
-		for student in self.courses[courseNum]:
-			student.printAttributes()
-		print("---")
+			print("CourseNum: ", courseNum)
+			for student in self.courses[courseNum]:
+				student.printAttributes()
+			print("---")
 
 	# Getter method
 	def getCourses(self):
