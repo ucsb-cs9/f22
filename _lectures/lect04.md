@@ -5,7 +5,15 @@ ready: true
 lecture_date: 2022-10-04 08:00:00.00-7:00
 ---
 
-Recorded Lecture: [10_4_22](https://drive.google.com/file/d/1LmiFZaGsXWr8OtAFn0B0-jtwgViMCWmA/view?usp=sharing)
+Note: due to technical difficulties in the video recording (no sound), I'm linking the relevant lecture from a previous quarter. The announcements specific to this quarter are as follows:
+
+```
+* Lab01 due Sunday 10/9 @ 11:59pm
+* H01 due Tuesday 10/11 @ 8am
+* Quiz1 on Friday 10/7 on Gradescope
+```
+
+[Recorded Lecture](https://drive.google.com/file/d/1foqb9VSGpLBLDxrd-nQ9dmA3JeBIYuKT/view?usp=sharing) 
 
 # Shallow vs. Deep Equality
 
