@@ -15,7 +15,7 @@ Richert Wang
 
 Andrew Alex
 * Lab Section (SSMS 1301): 2pm, 3pm
-* Tuesdays 3pm - 4pm, Fridays 3pm - 4pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+* Fridays 3pm - 5pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 Nawel Alioua
 * Lab Section (SSMS 1301): 2pm, 3pm
@@ -31,7 +31,7 @@ Ajit Jadhav
 
 Xinyu Liu
 * Lab Section (SSMS 1301): 1pm
-* Thursdays 12pm - 2pm, Fridays 9am - 10am [https://goo.gl/maps/LqegEHQB9Xoq67pS7](Trailer 936 (https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+* Thursdays 12pm - 2pm, Fridays 10am - 11am [https://goo.gl/maps/LqegEHQB9Xoq67pS7](Trailer 936 (https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 Yanchen Lu
 * Lab Section (SSMS 1301): 12pm
