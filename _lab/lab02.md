@@ -120,7 +120,7 @@ The `DrinkOrder.py` file will contain the class definition of what a customer's 
 
 Your `DrinkOrder` class definition should support the following constructor and methods:
 
-* `__init__(self)` - constructor that initializes an empty list to the class. This list will eventually expand with beverages for the customer's drink order.
+* `__init__(self)` - constructor that initializes an empty list to the class. Name this list attribute `drinks`. This list `drinks` will eventually expand with beverages for the customer's drink order.
 * `addBeverage(self, beverage)` - method that will add the beverage parameter to the `DrinkOrder`'s list. The most recently added beverage will exist at the end of the list. You may assume the beverage parameter will either be a `FruitJuice` or `Coffee` object.
 *  `getTotalOrder(self)` - method that will return a `str` containing each beverage in the drink order, and the total price of all beverages in the drink order. An example of what the return string format of the `getTotalOrder` method is shown below:
 
