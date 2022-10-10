@@ -31,7 +31,7 @@ Ajit Jadhav
 
 Xinyu Liu
 * Lab Section (SSMS 1301): 1pm
-* Thursdays 12pm - 2pm, Fridays 10am - 11am [https://goo.gl/maps/LqegEHQB9Xoq67pS7](Trailer 936 (https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+* Thursdays 12pm - 2pm, Fridays 10am - 11am (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 Yanchen Lu
 * Lab Section (SSMS 1301): 12pm
@@ -49,7 +49,7 @@ Krushna Shah
 
 Stella Jia
 * Lab Section (SSMS 1301): 9am, 10am
-* Mondays 2pm - 3pm, Fridays 4pm - 5pm [https://goo.gl/maps/LqegEHQB9Xoq67pS7](Trailer 936 (https://goo.gl/maps/LqegEHQB9Xoq67pS7))
+* Mondays 2pm - 3pm, Fridays 4pm - 5pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 Kyle Kumar
 * Lab Section (SSMS 1301): 1pm, 2pm
