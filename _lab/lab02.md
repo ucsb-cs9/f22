@@ -41,8 +41,8 @@ The `Beverage.py` file will contain the class definition of what a general bever
 
 We will define this class' attributes as follows:
 
-* `ounces` - `int` that represents the number of ounces of the beverage.
-* `price` - `float` that represents the price of the beverage.
+* `ounces` - positive `int` that represents the number of ounces of the beverage.
+* `price` - positive `float` that represents the price of the beverage.
 
 You should write a constructor that passes in values for all the fields. You may assume calls to the constructor will always contain a positive `int` representing the beverage's ounces and a positive `float` representing the beverage's price.
 
