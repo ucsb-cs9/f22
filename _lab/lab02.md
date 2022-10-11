@@ -50,10 +50,10 @@ You should write a constructor that passes in values for all the fields. You may
 
 In addition to your constructor, your class definition should also support "setter" and "getter" methods that can update and retrieve the state of the Beverage objects:
 
-`updateOunces(self, newOunces)` - updates the ounces of the beverage
-`updatePrice(self, newPrice)` - updates the price of the beverage
-`getOunces(self)` - returns the ounces of the beverage
-`getPrice(self)` - returns the price of the beverage
+* `updateOunces(self, newOunces)` - updates the ounces of the beverage
+* `updatePrice(self, newPrice)` - updates the price of the beverage
+* `getOunces(self)` - returns the ounces of the beverage
+* `getPrice(self)` - returns the price of the beverage
 
 Each Beverage object should be able to call a method `getInfo(self)` that you will implement, which returns a `str` with the current beverage's ounces and price. Since there are many beverages, the following output represents what will be returned if we call the `getInfo` method after constructing a `Beverage` object:
 
