@@ -142,7 +142,14 @@ Order Items:
 Total Price: $7.50
 ```
 
-<b>Note:</b> The `order.getTotalOrder()` return value in the example above does not contain a newline character (`\n`) at the end.
+An example of what the return string format of the `getTotalOrder` method when there are no beverages in the Drink Order is shown below:
+
+```
+Order Items:
+Total Price: $0.00
+```
+
+<b>Note:</b> The `order.getTotalOrder()` return value in the examples above do not contain a newline character (`\n`) at the end.
 
 ## `testFile.py` pytests
 
