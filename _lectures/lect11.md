@@ -112,15 +112,15 @@ def add(self, item):
 		temp.setNext(current)
 		previous.setNext(temp)
 
-# Method to get the items from front to back
-def getList(self):
-	current = self.head
-	output = ""
-	while current != None:
-		output += str(current.getData()) + " "
-		current = current.getNext()
-	output = output[:len(output)-1] # remove end space
-	return output
+	# Method to get the items from front to back
+	def getList(self):
+		current = self.head
+		output = ""
+		while current != None:
+			output += str(current.getData()) + " "
+			current = current.getNext()
+		output = output[:len(output)-1] # remove end space
+		return output
 ```
 ```
 # Test to check if adding elements maintain order
