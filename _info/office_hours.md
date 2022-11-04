@@ -39,7 +39,7 @@ Yanchen Lu
 
 Kha-Dinh Luong
 * Lab Section (SSMS 1301): 11am, 12pm
-* Tuesdays 12pm - 2pm (HFH 2120A [https://goo.gl/maps/2miBjdxACQPbzic76](https://goo.gl/maps/2miBjdxACQPbzic76))
+* Tuesdays 12pm - 2pm (HFH 2120A [https://goo.gl/maps/2miBjdxACQPbzic76](https://goo.gl/maps/2miBjdxACQPbzic76) and on Zoom [https://ucsb.zoom.us/j/5460491223](https://ucsb.zoom.us/j/5460491223))
 
 Krushna Shah
 * Lab Section (SSMS 1301): 9am, 3pm
