@@ -5,7 +5,7 @@ ready: true
 lecture_date: 2022-11-29 08:00:00.00-7:00
 ---
 
-Recorded Lecture: [11_29_22](https://drive.google.com/file/d/10P-f_-Nf3HuIXj_09mYvLCd4uRcZM9dS/view?usp=sharing)
+Recorded Lecture: [11-29-22](https://drive.google.com/file/d/10P-f_-Nf3HuIXj_09mYvLCd4uRcZM9dS/view?usp=sharing)
 
 # BST Deletion Implementation
 ```
