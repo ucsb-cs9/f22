@@ -8,7 +8,7 @@ lecture_date: 2022-11-22 08:00:00.00-7:00
 Recorded Lecture: [11_22_22](https://drive.google.com/file/d/156CG2ANAAjd9BfovvSTurbpPMLhgU_fS/view?usp=sharing)
 
 * Link to previous F21 in-person Final: [F21 Sample Final](https://drive.google.com/file/d/1QVzxs8M3HCHx4mm-jGFZorqyXDD5q-AD/view?usp=sharing)
-    * Note: use this as a **supplemental** study guide. A remote final will contain different types of questions, and the difficulty may vary.
+    * Note: use this as a **supplemental** study guide - the content and difficulty may vary.
 
 # BST Deletion
 
